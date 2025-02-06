@@ -1,2 +1,2 @@
 # Trial-App
-Built this app as a trial 
+Built this app using Kodular 
